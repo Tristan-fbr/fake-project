@@ -64,4 +64,5 @@ df2.head()
 df3 = df['name'].drop_duplicates()
 df3.head()
 
-import pandas as pd 
+print("date du nouveau commit 18h58, j'espère que ça va marcher !")
+print("date du nouveau commit 18h58, je n'arrive toujours pas à commit 19h15")
